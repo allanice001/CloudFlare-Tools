@@ -1,0 +1,2 @@
+New Python 2.x based ddns client
+Build around Cloudflare Client API - https://www.cloudflare.com/docs/client-api.html
